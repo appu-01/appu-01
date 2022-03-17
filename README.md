@@ -8,3 +8,8 @@
 appu-01/appu-01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+## Tech-Stack
+| Programming Languages     | Frameworks and Libraries | Other Tool     |
+| :---:        |    :----:   |     :---:     |
+|    [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,c,cpp,md&theme=light)](https://skillicons.dev)  |   [![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,sass,mysql&theme=light)](https://skillicons.dev)     | [![My Skills](https://skillicons.dev/icons?i=figma,git,vscode,linux&theme=light)](https://skillicons.dev)   |
